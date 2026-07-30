@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/gointic_office_toolkit_banner.png" alt="GOINTIC Office Toolkit" width="120">
+  <img src="banner.png" alt="GOINTIC Office Toolkit" width="120">
 </p>
 
 # GOINTIC Office Toolkit
