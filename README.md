@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="images/gointic_office_toolkit_banner.png" alt="GOINTIC Office Toolkit" width="120">
+</p>
+
+# GOINTIC Office Toolkit
+
+
+
 # 🛠️ GOINTIC Office Toolkit
 
 > Herramienta profesional en PowerShell para diagnosticar, reparar, desinstalar y desplegar Microsoft Office en Windows.
