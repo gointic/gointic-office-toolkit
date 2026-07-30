@@ -1,2 +1,2 @@
 # gointic-office-toolkit
-Professional PowerShell toolkit for diagnosing, repairing, deploying and cleaning Microsoft Office installations on Windows.
+Herramienta profesional en PowerShell para diagnosticar, reparar, desinstalar y desplegar Microsoft Office en Windows.
